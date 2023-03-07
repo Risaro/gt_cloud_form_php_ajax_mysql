@@ -3,7 +3,7 @@
 $domain = 'http://localhost/';
 $dbHost = 'localhost';
 $dbUsername = 'liksa';
-$dbPassword = 'Korvo228';
+$dbPassword = '';
 $dbName = 'cloud';
 //Create connection and select DB
 $db = new mysqli($dbHost, $dbUsername, $dbPassword, $dbName);
